@@ -10,14 +10,14 @@ urls:
     url: /blog
   - text: Gallery
     url: /gallery
-  - text: Shop
-    url: /shop
+#  - text: Shop
+#    url: /shop
   - text: Contact Me
     url: /contact
-  - text: Styleguide
-    url: /styleguide
-  - text: Get Started
-    url: /get-started
+#  - text: Styleguide
+#    url: /styleguide
+#  - text: Get Started
+#    url: /get-started
 author_logo: profile.png
 author: Minseung Lee
 author_bio: 'MS, start!! :D'
@@ -25,23 +25,22 @@ author_email: leems1029@nate.com
 author_location: Republic Of Korea.
 author_website_url: 'http://minseung-lee.github.io'
 typewrite-text: >-
-  devlopr is a jekyll theme built for developers. You can edit this in
-  _config.yml file
+  안녕하세요. 개발자 이민승입니다.
 author_work_experiences:
-  - company_name: Google
-    company_logo: google.png
-    company_url: 'https://google.com'
-    designation: Software Engineer
-    description: Worked on various Google Products
+  - company_name: Ktoto
+    company_logo: null
+    company_url: 'http://www.ktoto.co.kr/'
+    designation: Software Developer
+    description: 국민체육진흥투표권 인터넷발매시스템 유지보수
     visibility: true
-  - company_name: Microsoft
-    company_logo: microsoft.png
-    company_url: 'https://microsoft.com'
-    designation: Azure Developer
-    description: Worked on various Azure Cloud Products
+  - company_name: openit inc.
+    company_logo: null
+    company_url: 'https://www.openit.co.kr/welcome'
+    designation: Software Developer
+    description: SK 계열사 SI 프로젝트 개발 업무
     visibility: true
 author_education_details:
-  - college_logo: mit.png
+  - college_logo: null
     college_name: MIT
     college_url: 'https://mit.org'
     college_degree: CS Engineer
@@ -58,24 +57,24 @@ author_project_details:
     project_description: A Platform built for Hackers and Penetration Testers
     project_url: 'https://hack4r.com'
     visibility: true
-twitter_username: minseung-lee
+#twitter_username: minseung-lee
 github_username: minseung-lee
-facebook_username: minseung-lee
+#facebook_username: minseung-lee
 linkedin_username: minseung-lee
-behance_username: minseung-lee
-instagram_username: minseung-lee
-medium_username: minseung-lee
-telegram_username: minseung-lee
-dribbble_username: minseung-lee
-flickr_username: minseung-lee
+#behance_username: minseung-lee
+#instagram_username: minseung-lee
+#medium_username: minseung-lee
+#telegram_username: minseung-lee
+#dribbble_username: minseung-lee
+#flickr_username: minseung-lee
 hyvor_talk_website_id: 476
-wakatime_username: sujaykundu777
+#wakatime_username: sujaykundu777
 mailchimp_form_url: null
 formspree_email: leems1029@nate.com
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-google_analytics: UA-46783401-10
+google_analytics: UA-169614937-1
 show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: true
